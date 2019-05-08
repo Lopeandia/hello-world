@@ -1,2 +1,6 @@
 # hello-world
-my first respository
+
+Hola humanos!
+
+algo respectoa tacos y la luna...
+
